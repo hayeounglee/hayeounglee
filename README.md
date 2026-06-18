@@ -14,7 +14,6 @@
 
 <br/>
 
----
 
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
@@ -32,10 +31,8 @@
 
 <br/>
 
----
 
 <h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/hayeounglee"/>
