@@ -9,6 +9,7 @@
 - 📝 I write about infra & Linux on my blog: [steadyhippo.tistory.com](https://steadyhippo.tistory.com)
 - 💼 Open to **Cloud Engineer / Systems Engineer** positions
 - 📫 Reach me at: **haha01040@google.com**
+- 📂 Projects: [hayeoung-lab repositories](https://github.com/orgs/hayeoung-lab/repositories)
 
 <img width="100" height="100" alt="RHCSA" src="https://github.com/user-attachments/assets/cad47e17-e43a-43e0-9795-0fafd349d301" />
 
