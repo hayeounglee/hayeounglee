@@ -2,4 +2,4 @@
   <img src="https://render.gitanimals.org/farms/hayeounglee"/>
 </a>
 
-https://www.credly.com/badges/ee292184-36ee-4054-b932-abe2573eae39/public_url
+<img width="168" height="168" alt="red-hat-certified-system-administrator-rhcsa" src="https://github.com/user-attachments/assets/cad47e17-e43a-43e0-9795-0fafd349d301" />
