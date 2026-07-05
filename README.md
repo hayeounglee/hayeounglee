@@ -5,7 +5,6 @@
 
 - 🔭 Currently studying **Ansible, Kubernetes, Docker, AWS**
 - 📜 Certified: **RHCSA**, **Linux Master Level 2**
-- 🎯 Next target: **CKA (Certified Kubernetes Administrator)**
 - 📝 I write about infra & Linux on my blog: [steadyhippo.tistory.com](https://steadyhippo.tistory.com)
 - 💼 Open to Cloud Engineer / DevOps Engineer positions
 - 📫 Reach me at: **haha010400@google.com**
