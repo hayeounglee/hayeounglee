@@ -8,7 +8,7 @@
 - 📝 I write about infra & Linux on my blog: [steadyhippo.tistory.com](https://steadyhippo.tistory.com)
 - 💼 Open to Cloud Engineer / DevOps Engineer positions
 - 📫 Reach me at: **haha010400@google.com**
-- 📂 Projects: [hayeoung-lab repositories](https://github.com/orgs/hayeoung-lab/repositories)
+- 📂 Projects: https://github.com/321Team
 
 <img width="100" height="100" alt="RHCSA" src="https://github.com/user-attachments/assets/cad47e17-e43a-43e0-9795-0fafd349d301" />
 <img width="100" height="100" alt="cka-certified-kubernetes-administrator" src="https://github.com/user-attachments/assets/25a77e4a-6cc4-4fba-abdc-19b6f4b4beca" />
